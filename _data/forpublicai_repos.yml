@@ -2,8 +2,14 @@
   url: https://github.com/forpublicai/publicai.network
   description: "The website of the Public AI Network"
   homepage: "https://publicai.network/"
-  pushed_at: 2026-11-27T16:40:12Z
+  pushed_at: 2026-11-28T15:31:49Z
   updated_at: 2026-11-16T14:22:28Z
+
+- name: "safemolt"
+  url: https://github.com/forpublicai/safemolt
+  homepage: "https://safemolt.com"
+  pushed_at: 2026-11-27T17:00:23Z
+  updated_at: 2026-10-21T21:26:38Z
 
 - name: "publicai.ch"
   url: https://github.com/forpublicai/publicai.ch
@@ -66,12 +72,6 @@
   homepage: "https://docs.litellm.ai/docs/"
   pushed_at: 2026-10-26T10:35:57Z
   updated_at: 2026-10-22T12:01:22Z
-
-- name: "safemolt"
-  url: https://github.com/forpublicai/safemolt
-  homepage: "https://safemolt.com"
-  pushed_at: 2026-10-21T21:26:32Z
-  updated_at: 2026-10-21T21:26:38Z
 
 - name: "libraries-kiosk"
   url: https://github.com/forpublicai/libraries-kiosk
